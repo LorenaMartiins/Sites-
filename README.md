@@ -1,5 +1,6 @@
 # Sites-
-Sites feitos por tutorial tirado do youtube para eu aprender um pouco mais.
+
+Peguei tutoriais no youtube para aprender um pouco mais, abaixo estão os sites
 
 Sites:
 
